@@ -26,7 +26,7 @@ class NWApp extends App{
 			nw.Window.open('modules/controller/controller.html', {
 				//new_instance: true,
 				id: 'kdx',
-				title: 'KaspaDX',
+				title: 'MineFi-DX',
 				width: 1027,
 				height: 768,
 				resizable: true,
