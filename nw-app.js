@@ -50,7 +50,7 @@ class NWApp extends App{
 		nw.Window.open('modules/initialize/initialize.html', {
 			//new_instance: true,
 			id: 'initialize',
-			title: 'KaspaDX',
+			title: 'MineFi-DX',
 			width: 1027,
 			height: 768,
 			resizable: true,
